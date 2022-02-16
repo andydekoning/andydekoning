@@ -2,7 +2,7 @@
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning Python, C and C++
 - 💞️ I’m looking to collaborate on All kind of code
-- 📫 How to reach me andydekoning@outlook.com
+- 📫 How to reach me andy@andydekoning.nl
 
 <!---
 andydekoning/andydekoning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
